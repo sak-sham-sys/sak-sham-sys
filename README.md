@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **saksham.gondal14@gmail.com**
 
-- 📄 Know about my experiences [C:\Users\DELL\Downloads\Saksham Resume 221b321.pdf](C:\Users\DELL\Downloads\Saksham Resume 221b321.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/saksham-gondal-31087b34a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/saksham-gondal-31087b34a" height="30" width="40" /></a>
